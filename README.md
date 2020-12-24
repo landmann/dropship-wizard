@@ -3,12 +3,12 @@ A data driven way to find items you can drop ship.
 
 # Strategies
 
-* [] See if Facebook videos exist and have views from 100K to 1M. No more, no less.
+* [ ] See if Facebook videos exist and have views from 100K to 1M. No more, no less.
 
-* [] See Pinterest boards for data.
+* [ ] See Pinterest boards for data.
 
-* [] See rising Google trends.
+* [ ] See rising Google trends.
 
-* [] AliExpress items.
+* [ ] AliExpress items.
 
-* [] Pull competitors and prices from amazon.
+* [ ] Pull competitors and prices from amazon.
